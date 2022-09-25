@@ -23,7 +23,7 @@ import com.springboot.curso.sprinboot.apirest.repository.UsuarioRepository;
 
 
 @RestController
-public class MeuPrimeiroController {
+public class UsuarioController {
 
     @Autowired
     private UsuarioRepository usuarioRepository;
